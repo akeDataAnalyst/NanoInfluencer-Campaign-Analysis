@@ -1,6 +1,8 @@
 # Nano-Influencer Campaign & ROI Optimizer  
 ### End-to-End Data Analytics Platform for Beauty & FMCG Marketing
 
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://nanoinfluencer-campaign-analysis-qfnapjdzcr329dxxwgcg8x.streamlit.app/)
+
 ---
 
 ## Project Overview
