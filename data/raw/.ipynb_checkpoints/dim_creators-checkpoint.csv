@@ -1,0 +1,501 @@
+creator_id,name,market,category,follower_count,join_date
+CR-0001,Robert Anthony,UK,Makeup,7448,2024-06-11
+CR-0002,Dawn Wood,UK,Skincare,7081,2024-10-05
+CR-0003,Michelle Berry,Germany,Haircare,6047,2024-06-03
+CR-0004,Mark Cole,France,Haircare,6037,2024-09-03
+CR-0005,Steven Munoz,France,Skincare,1559,2024-10-02
+CR-0006,Todd Davis,France,Makeup,7684,2024-08-26
+CR-0007,Jason Morris,UK,Haircare,5697,2024-06-12
+CR-0008,Mr. Anthony Cardenas,USA,Makeup,1332,2024-05-02
+CR-0009,Karen Jacobs DDS,UK,Makeup,2003,2024-04-03
+CR-0010,Kayla Diaz,USA,Makeup,9338,2024-05-24
+CR-0011,Mario Snyder,UAE,Skincare,5889,2024-02-13
+CR-0012,Michael Guerra,UK,Skincare,4970,2024-10-27
+CR-0013,Craig Harris,UK,Makeup,6972,2024-05-23
+CR-0014,Mark Jackson,UK,Personal Care,4788,2024-06-25
+CR-0015,Samuel Roach II,France,Skincare,4315,2024-09-07
+CR-0016,Scott Hernandez,France,Personal Care,5306,2024-03-13
+CR-0017,Kristen Crawford,USA,Personal Care,3440,2024-12-09
+CR-0018,Joseph Nguyen,USA,Makeup,2791,2024-06-24
+CR-0019,Kathryn Williams,UK,Personal Care,1845,2024-12-21
+CR-0020,Mercedes Davenport,USA,Personal Care,6261,2024-04-29
+CR-0021,Tiffany Carter,France,Personal Care,8422,2024-05-31
+CR-0022,Olivia Woods,USA,Makeup,1746,2024-02-12
+CR-0023,Stephanie Hurst,UAE,Makeup,7177,2024-05-19
+CR-0024,Leslie Williams,France,Skincare,3353,2024-06-01
+CR-0025,Brittany Martin,UAE,Skincare,2676,2024-11-05
+CR-0026,Rebecca Hoffman,USA,Personal Care,6035,2024-12-30
+CR-0027,Benjamin Rodriguez,Germany,Makeup,6552,2024-11-19
+CR-0028,Robert Medina,UK,Makeup,8007,2024-07-24
+CR-0029,Chad Hines,France,Personal Care,4077,2024-02-15
+CR-0030,Elizabeth Gonzalez,UAE,Skincare,4489,2024-02-28
+CR-0031,Jeffrey Taylor,Germany,Makeup,3365,2024-08-01
+CR-0032,Pamela Harrison,Germany,Skincare,7194,2024-07-16
+CR-0033,Dana Elliott,France,Personal Care,9421,2024-11-01
+CR-0034,Hannah Sutton,France,Makeup,5665,2025-01-25
+CR-0035,Andrea Diaz,Germany,Personal Care,3895,2024-09-14
+CR-0036,Michael Adkins,UK,Haircare,5410,2025-01-27
+CR-0037,Ryan Allen,UK,Personal Care,9094,2024-09-17
+CR-0038,Dr. Zoe Morris,UAE,Personal Care,6035,2024-04-27
+CR-0039,Joseph Ford,UK,Personal Care,6749,2024-05-30
+CR-0040,Nathan Reynolds,Germany,Makeup,3086,2025-01-19
+CR-0041,Nicholas Walker,Germany,Personal Care,8873,2024-08-02
+CR-0042,Sandra Mcclure DDS,USA,Personal Care,2433,2024-03-02
+CR-0043,Amanda Castillo,Germany,Haircare,3506,2024-06-19
+CR-0044,Eric Myers,UK,Makeup,4896,2025-01-05
+CR-0045,Alex Heath,UAE,Haircare,7711,2024-02-04
+CR-0046,Jeremy Soto,USA,Personal Care,7192,2024-10-07
+CR-0047,Daniel Torres,UK,Makeup,2679,2024-06-09
+CR-0048,Mercedes Vasquez,UAE,Haircare,7664,2024-10-30
+CR-0049,Linda Cruz,UK,Personal Care,1428,2024-09-02
+CR-0050,Patrick Mayer,USA,Skincare,5532,2024-12-12
+CR-0051,Denise Lewis,Germany,Haircare,3224,2024-10-01
+CR-0052,Christine Thornton,USA,Makeup,8651,2024-09-08
+CR-0053,Michael Baker,Germany,Haircare,7238,2025-01-31
+CR-0054,Patrick Lewis,USA,Haircare,5495,2024-05-14
+CR-0055,Jamie Williams,France,Haircare,7442,2024-10-16
+CR-0056,Donna Sandoval,UK,Skincare,7286,2024-06-25
+CR-0057,Zachary Reese,UK,Makeup,2975,2024-09-05
+CR-0058,Robert Mendoza,France,Makeup,5030,2024-05-22
+CR-0059,Allen Todd,Germany,Makeup,8924,2024-11-16
+CR-0060,Joseph Meyer,UK,Personal Care,1610,2024-08-15
+CR-0061,Thomas Sawyer,France,Makeup,6574,2024-08-11
+CR-0062,Nancy Lynch,UK,Makeup,4826,2024-06-20
+CR-0063,Sarah Burch,UAE,Skincare,2235,2024-07-14
+CR-0064,Dr. Ian Riggs,Germany,Personal Care,8806,2024-10-17
+CR-0065,Vanessa Jacobson,UAE,Personal Care,6151,2025-01-24
+CR-0066,David Simpson,Germany,Haircare,7889,2024-09-23
+CR-0067,Christopher Stephens,France,Personal Care,3111,2024-02-13
+CR-0068,Stacy Clark,Germany,Personal Care,3490,2024-09-02
+CR-0069,Mark Mosley,Germany,Skincare,1942,2025-01-30
+CR-0070,John Morrison,France,Makeup,1809,2024-06-01
+CR-0071,Natasha Alexander,Germany,Personal Care,6186,2024-10-13
+CR-0072,Corey Smith,UK,Personal Care,9271,2024-07-30
+CR-0073,Donna Henry,USA,Skincare,3102,2024-10-29
+CR-0074,Roger Ruiz,France,Personal Care,2792,2024-12-30
+CR-0075,Rhonda Rasmussen,USA,Personal Care,5046,2024-11-22
+CR-0076,Ms. Katherine Jackson DDS,France,Skincare,3422,2025-01-23
+CR-0077,Jeffrey Martinez,France,Haircare,7567,2024-09-24
+CR-0078,Laura Jackson,UAE,Haircare,8632,2024-10-29
+CR-0079,Megan Lee,UAE,Personal Care,7278,2024-12-28
+CR-0080,Nathaniel Long,Germany,Personal Care,8066,2024-03-12
+CR-0081,Sarah Clark,USA,Makeup,3731,2024-11-11
+CR-0082,David Sloan,France,Personal Care,7997,2024-02-06
+CR-0083,Allison Anderson,Germany,Makeup,2822,2024-08-29
+CR-0084,Betty Cruz,UK,Haircare,9217,2024-04-13
+CR-0085,Sandra Miller,France,Personal Care,7886,2024-02-16
+CR-0086,Kevin Shelton,UK,Personal Care,5783,2024-09-08
+CR-0087,Christine Roberts,Germany,Skincare,1736,2024-11-19
+CR-0088,Sean Gray,UAE,Personal Care,7270,2024-12-17
+CR-0089,Penny Dougherty,Germany,Haircare,4759,2024-04-16
+CR-0090,Vincent Robinson,UK,Personal Care,8464,2024-10-30
+CR-0091,Jackie Ferguson,France,Makeup,8485,2024-11-06
+CR-0092,Caitlyn Mcdaniel,USA,Personal Care,5068,2024-10-20
+CR-0093,Alison Pierce,Germany,Makeup,7142,2025-01-23
+CR-0094,Christopher Sharp,France,Skincare,2827,2024-08-02
+CR-0095,Cynthia Glenn,UAE,Personal Care,7218,2024-11-17
+CR-0096,Tina Mann,UAE,Skincare,7076,2024-04-27
+CR-0097,Brittany Russell,UAE,Skincare,2192,2024-03-15
+CR-0098,Kenneth Sullivan,France,Personal Care,7723,2024-03-07
+CR-0099,William Glenn,Germany,Makeup,5720,2024-10-16
+CR-0100,John Mcdonald,France,Personal Care,4309,2024-11-22
+CR-0101,Nancy Larson,France,Makeup,3201,2024-10-11
+CR-0102,Kathryn Smith,USA,Skincare,8650,2024-06-05
+CR-0103,Gary Matthews,USA,Haircare,2701,2024-11-04
+CR-0104,Zachary Cox,Germany,Personal Care,4675,2024-02-05
+CR-0105,Thomas Collins,USA,Haircare,1549,2025-01-05
+CR-0106,Matthew Howard,UAE,Makeup,2028,2024-11-20
+CR-0107,Rhonda Villarreal,USA,Personal Care,6664,2024-06-29
+CR-0108,Daniel Anderson,UAE,Haircare,5190,2024-07-25
+CR-0109,Chad Ramirez,Germany,Haircare,3263,2024-09-02
+CR-0110,Aaron Evans,France,Personal Care,4562,2024-07-31
+CR-0111,Jason Smith,France,Haircare,2324,2024-07-24
+CR-0112,Sabrina Grant,USA,Personal Care,4594,2025-02-02
+CR-0113,Amy Vaughn,UAE,Haircare,4738,2024-05-21
+CR-0114,Dean Jones,UK,Skincare,5017,2024-10-23
+CR-0115,Kimberly Gibson,UK,Personal Care,6583,2024-07-19
+CR-0116,Janice Rasmussen,UK,Skincare,3617,2024-04-13
+CR-0117,Joe Walters,France,Skincare,1246,2024-03-08
+CR-0118,Bobby Conley,France,Haircare,5742,2024-03-28
+CR-0119,Renee Schroeder,UAE,Makeup,3570,2024-12-25
+CR-0120,Allison Wood,USA,Skincare,3329,2024-02-26
+CR-0121,Kimberly Martinez,UK,Skincare,5306,2024-12-29
+CR-0122,Matthew Snyder,UAE,Skincare,4058,2024-03-06
+CR-0123,Melissa Cowan,UAE,Makeup,3001,2024-11-18
+CR-0124,Alan Byrd,USA,Makeup,1622,2024-11-09
+CR-0125,David Nelson,UAE,Skincare,3359,2024-06-13
+CR-0126,Tasha Reyes,USA,Makeup,1443,2024-07-11
+CR-0127,Mason Turner,Germany,Makeup,7069,2024-06-01
+CR-0128,Raymond Patel,USA,Makeup,5098,2024-06-29
+CR-0129,Cynthia Brown,UK,Personal Care,6504,2024-07-07
+CR-0130,Timothy Olson,UK,Skincare,1458,2024-03-23
+CR-0131,Ricardo Grant,USA,Makeup,4054,2024-04-11
+CR-0132,Anna Day,Germany,Personal Care,5547,2024-11-18
+CR-0133,Lori Wilson,Germany,Haircare,2058,2024-09-11
+CR-0134,Laura Simmons,UK,Haircare,3276,2024-04-23
+CR-0135,Jeremy Nielsen,Germany,Makeup,8097,2024-06-21
+CR-0136,Cameron Gonzalez,UAE,Skincare,3062,2024-03-29
+CR-0137,Alyssa Franklin,France,Makeup,2241,2025-01-29
+CR-0138,Isaac Riley,UAE,Haircare,9002,2024-05-21
+CR-0139,Eric Robertson,UK,Skincare,8544,2024-02-06
+CR-0140,Ashley Collins,Germany,Skincare,7131,2024-08-21
+CR-0141,Bianca Walker,USA,Haircare,2986,2024-04-01
+CR-0142,Kristina Murillo,France,Personal Care,8605,2024-02-21
+CR-0143,Brandi Wright,USA,Personal Care,9454,2024-07-30
+CR-0144,Jacqueline Hunt,UK,Makeup,4829,2024-03-06
+CR-0145,Mia Calhoun,Germany,Skincare,1910,2024-05-07
+CR-0146,Jessica Martin,USA,Makeup,6141,2024-07-15
+CR-0147,Glenn Morales,USA,Skincare,8704,2024-09-25
+CR-0148,Joshua Elliott,France,Haircare,1710,2024-10-11
+CR-0149,Katherine Romero,France,Skincare,2196,2024-09-16
+CR-0150,Joseph Glass,Germany,Skincare,9047,2024-12-25
+CR-0151,Jenna Scott,France,Haircare,7780,2024-11-07
+CR-0152,Robert Stevens,USA,Personal Care,8184,2024-07-19
+CR-0153,Mrs. Katelyn Evans,USA,Haircare,2968,2024-08-20
+CR-0154,Eric Elliott,UK,Skincare,9232,2024-10-16
+CR-0155,Danny Parker,USA,Haircare,8467,2024-09-13
+CR-0156,Daniel Henry,Germany,Skincare,2404,2024-10-21
+CR-0157,Jennifer Moore,UAE,Personal Care,2523,2024-12-22
+CR-0158,Elizabeth Smith,UK,Personal Care,6477,2024-11-14
+CR-0159,Thomas Barnes,UK,Skincare,3630,2024-03-17
+CR-0160,Sherry Miles,Germany,Personal Care,2276,2025-01-25
+CR-0161,Connie Pitts,Germany,Haircare,3267,2024-02-12
+CR-0162,Bruce Wang,France,Personal Care,5705,2024-09-21
+CR-0163,Sarah Carr,UK,Makeup,6527,2024-07-03
+CR-0164,Mrs. Kayla Guzman,France,Personal Care,7440,2024-04-16
+CR-0165,Olivia Gomez,USA,Makeup,6031,2024-06-04
+CR-0166,Andrew Wilson,UK,Haircare,8633,2025-01-15
+CR-0167,Michelle Esparza,UK,Personal Care,9482,2024-05-29
+CR-0168,Aaron Kelly,UAE,Personal Care,8248,2024-10-19
+CR-0169,Megan Pena,UK,Personal Care,2824,2024-05-30
+CR-0170,April Gibbs,USA,Haircare,3074,2025-01-18
+CR-0171,Katelyn Mccoy,France,Haircare,4722,2024-03-31
+CR-0172,Kristina Odom,France,Makeup,8246,2024-04-03
+CR-0173,Terry Martinez,UAE,Skincare,8598,2024-02-07
+CR-0174,John Scott,USA,Haircare,4943,2024-05-06
+CR-0175,Diana Mendez,France,Personal Care,7979,2025-01-27
+CR-0176,Jonathan Coleman,Germany,Makeup,6753,2024-03-05
+CR-0177,Christina Meza,USA,Personal Care,8630,2024-08-03
+CR-0178,Tiffany Harvey,USA,Personal Care,7732,2024-09-27
+CR-0179,Nicholas Fox,UAE,Haircare,8015,2024-12-25
+CR-0180,Jonathan Hayes,France,Skincare,2757,2024-05-22
+CR-0181,Crystal Garcia,USA,Personal Care,6320,2024-05-26
+CR-0182,Alexandra Berry,France,Haircare,8192,2024-04-28
+CR-0183,Marcus Newman,Germany,Makeup,6320,2024-02-28
+CR-0184,Becky Collins,UAE,Personal Care,5376,2025-01-27
+CR-0185,Matthew Foster,Germany,Makeup,7332,2024-11-20
+CR-0186,Renee White,UAE,Haircare,3700,2024-03-11
+CR-0187,Kenneth Howard,USA,Haircare,8970,2025-01-16
+CR-0188,William Walker,UAE,Haircare,2299,2024-11-19
+CR-0189,Amanda Wood,UK,Haircare,2694,2024-09-23
+CR-0190,Timothy Mckinney,France,Haircare,2598,2024-09-19
+CR-0191,Sarah Cole,France,Skincare,2727,2025-01-29
+CR-0192,Thomas Jenkins,UK,Makeup,8275,2024-04-23
+CR-0193,Jennifer White,Germany,Skincare,2782,2024-08-05
+CR-0194,Kelly Herman,UK,Makeup,7305,2024-02-05
+CR-0195,Kyle Sims,USA,Personal Care,3331,2024-02-21
+CR-0196,Jennifer Reynolds,USA,Personal Care,2182,2024-03-22
+CR-0197,Nicholas Davenport,France,Makeup,6600,2024-10-25
+CR-0198,Joanna Sexton,USA,Personal Care,3202,2024-07-24
+CR-0199,Derrick Harris,France,Personal Care,7930,2024-05-15
+CR-0200,Sandra Clayton,UK,Personal Care,6993,2024-12-13
+CR-0201,Michelle King,UK,Skincare,8129,2024-06-13
+CR-0202,Maureen Thomas,UK,Skincare,2042,2024-02-05
+CR-0203,Sylvia Meyer,France,Haircare,5912,2024-07-12
+CR-0204,Roy Douglas,UK,Makeup,6319,2025-01-26
+CR-0205,Natasha Jenkins,UK,Personal Care,6961,2024-09-13
+CR-0206,Kelly Romero,Germany,Makeup,2897,2024-10-15
+CR-0207,Jorge Valdez,UK,Haircare,4685,2024-07-28
+CR-0208,Stephanie Bishop,USA,Haircare,3735,2024-08-21
+CR-0209,Kaitlyn Martinez,France,Personal Care,9100,2024-06-15
+CR-0210,Julie Hughes,Germany,Haircare,4874,2024-02-08
+CR-0211,Jeremy Henry,UAE,Personal Care,2973,2024-06-10
+CR-0212,Kimberly Cross,France,Haircare,6936,2024-06-01
+CR-0213,Travis Chapman,USA,Haircare,7222,2024-07-09
+CR-0214,Patrick Mclaughlin,France,Personal Care,3082,2024-12-05
+CR-0215,Mary Oconnor,USA,Haircare,5764,2024-06-23
+CR-0216,Donna Reeves,USA,Haircare,4905,2024-02-16
+CR-0217,Amanda Gomez,UAE,Haircare,8230,2024-07-28
+CR-0218,Judy Estrada,France,Makeup,1630,2024-08-07
+CR-0219,Kimberly Jones,UAE,Skincare,5581,2024-12-01
+CR-0220,Ronald Dougherty,UAE,Makeup,1674,2024-07-02
+CR-0221,Rhonda Cummings,France,Haircare,4155,2024-03-05
+CR-0222,Jason Miller,UK,Skincare,5677,2024-07-06
+CR-0223,Bobby Ballard,UK,Makeup,6262,2024-11-11
+CR-0224,April Jones,UAE,Makeup,6767,2024-07-20
+CR-0225,Carol Guzman,Germany,Makeup,6951,2024-08-31
+CR-0226,Brian Horn,UAE,Personal Care,1300,2024-11-27
+CR-0227,Carol Paul,UAE,Haircare,4172,2025-01-20
+CR-0228,Mark Brown,UAE,Haircare,3547,2024-11-15
+CR-0229,David Dominguez,UK,Skincare,7766,2024-05-18
+CR-0230,Lynn Joseph,UK,Makeup,2340,2024-09-01
+CR-0231,Dustin Herman,UK,Haircare,3524,2024-07-22
+CR-0232,Jonathan Rivera,UAE,Makeup,1702,2024-12-28
+CR-0233,Erik Valdez,Germany,Haircare,2703,2025-01-30
+CR-0234,Peggy Wilson,UK,Makeup,4724,2024-12-30
+CR-0235,Regina Ellison,France,Haircare,7363,2024-12-10
+CR-0236,Catherine Wright,France,Skincare,8078,2025-01-03
+CR-0237,Kevin Jackson,France,Makeup,8632,2024-11-27
+CR-0238,Sandra Bailey,USA,Haircare,6785,2024-07-16
+CR-0239,Brittany Freeman,UAE,Skincare,3778,2024-09-01
+CR-0240,Lisa White,France,Skincare,7262,2024-04-22
+CR-0241,Donald Hines,UAE,Haircare,6305,2024-09-20
+CR-0242,Kara Weaver,France,Makeup,6514,2024-08-09
+CR-0243,Mr. Philip Reynolds,Germany,Personal Care,2591,2024-09-05
+CR-0244,Stacy Sloan,UAE,Skincare,2061,2024-03-14
+CR-0245,Lisa Reed,France,Skincare,3749,2024-07-29
+CR-0246,Mary Schmidt,UK,Haircare,3779,2024-07-27
+CR-0247,Alexis Brown,UAE,Personal Care,2015,2024-05-31
+CR-0248,Mr. Zachary Park,USA,Personal Care,2536,2024-08-23
+CR-0249,Ashley Ramirez,UK,Personal Care,5658,2025-01-08
+CR-0250,Bradley Mitchell,UK,Haircare,8459,2024-02-17
+CR-0251,Alyssa Kim,USA,Makeup,8147,2024-03-29
+CR-0252,Mark May,UK,Skincare,9157,2024-04-30
+CR-0253,Melvin Kennedy,UK,Haircare,8442,2024-08-08
+CR-0254,John Powell,France,Personal Care,7985,2025-02-02
+CR-0255,Michael Collier,France,Skincare,5675,2024-07-03
+CR-0256,Caleb Taylor,UAE,Skincare,4731,2024-05-15
+CR-0257,Adrian Hill,UAE,Personal Care,3064,2024-12-08
+CR-0258,John Dean Jr.,UAE,Personal Care,6855,2024-08-05
+CR-0259,Larry Jennings,France,Skincare,8243,2024-11-04
+CR-0260,Gregory Hill,UAE,Skincare,3016,2024-10-03
+CR-0261,Andrew May,UK,Makeup,5840,2024-06-28
+CR-0262,Tracie Lin,France,Makeup,9172,2024-11-09
+CR-0263,Michael Shepherd,UAE,Haircare,6253,2024-10-19
+CR-0264,James Terrell,UK,Skincare,1944,2024-07-13
+CR-0265,Miguel Jimenez,UAE,Makeup,4812,2024-03-09
+CR-0266,Mr. Eric Thomas DVM,Germany,Skincare,7675,2024-12-12
+CR-0267,Cassidy Davis,UAE,Personal Care,2097,2025-01-04
+CR-0268,Alicia Jackson,Germany,Makeup,1325,2024-06-01
+CR-0269,Lisa Smith,UAE,Personal Care,4549,2024-02-23
+CR-0270,James Nelson,USA,Personal Care,6138,2024-10-03
+CR-0271,Timothy Sutton,UAE,Personal Care,4660,2024-08-14
+CR-0272,Rebecca Arnold,France,Haircare,3448,2024-09-02
+CR-0273,Jacob Fernandez,France,Personal Care,5386,2024-10-11
+CR-0274,Paul Walker,Germany,Haircare,5942,2025-01-06
+CR-0275,Jeffrey Jones,France,Skincare,6575,2025-01-10
+CR-0276,Deborah Watson,UK,Skincare,3165,2025-02-01
+CR-0277,Melissa Hill,USA,Makeup,1326,2024-12-27
+CR-0278,Sarah Sanchez,USA,Makeup,9349,2024-03-22
+CR-0279,Kathryn Walker,UK,Haircare,8255,2024-11-03
+CR-0280,Stephanie Holmes,Germany,Skincare,4078,2024-05-06
+CR-0281,Jeremy Pena,UK,Makeup,3316,2024-10-31
+CR-0282,Daniel Powers,UK,Makeup,7429,2025-01-13
+CR-0283,Kelly Martinez,USA,Makeup,4970,2024-09-12
+CR-0284,Courtney Smith,UAE,Skincare,9396,2024-02-08
+CR-0285,Lisa Bennett,USA,Makeup,7002,2024-06-08
+CR-0286,Joan Atkinson,USA,Skincare,2380,2024-05-07
+CR-0287,Marco Cabrera,France,Personal Care,7705,2024-12-17
+CR-0288,Jasmine Hogan,UK,Personal Care,1893,2024-03-07
+CR-0289,Marie Jenkins,USA,Personal Care,8347,2024-12-19
+CR-0290,Megan Craig,UK,Haircare,1507,2024-07-19
+CR-0291,Andrew Juarez,France,Skincare,8732,2024-09-19
+CR-0292,Daniel Mcpherson,UK,Makeup,2475,2024-11-02
+CR-0293,Yvonne Anderson,USA,Haircare,6329,2024-12-20
+CR-0294,Kaitlin Mahoney,UK,Haircare,8233,2024-07-22
+CR-0295,Brittany Perez,France,Personal Care,7826,2024-10-20
+CR-0296,Brian Swanson,UAE,Skincare,8043,2024-03-19
+CR-0297,Thomas Clark,UK,Makeup,5943,2024-03-26
+CR-0298,Jonathan Thompson,USA,Haircare,3087,2024-04-12
+CR-0299,Anthony Burnett,France,Makeup,7836,2024-02-08
+CR-0300,Darrell Hunter,USA,Personal Care,1541,2024-10-21
+CR-0301,Douglas Lynch,USA,Skincare,6521,2024-03-04
+CR-0302,Gregory Hamilton,UK,Makeup,4015,2024-08-26
+CR-0303,Luis Chambers,USA,Makeup,8738,2024-03-03
+CR-0304,Stephanie Moreno,UK,Haircare,7128,2024-02-11
+CR-0305,Robert Martinez,UAE,Makeup,2643,2024-09-16
+CR-0306,Crystal Tanner,USA,Skincare,8355,2025-01-12
+CR-0307,Melissa Kim,USA,Skincare,2934,2024-06-05
+CR-0308,Michelle James,USA,Makeup,5186,2024-05-17
+CR-0309,Jennifer Bryant,Germany,Haircare,8338,2024-08-16
+CR-0310,Kimberly Thompson,Germany,Haircare,7760,2024-03-01
+CR-0311,Brandon Galvan,France,Personal Care,2488,2024-07-17
+CR-0312,Luis Ford,Germany,Skincare,7684,2024-10-25
+CR-0313,Kristen Smith,France,Personal Care,6283,2024-03-03
+CR-0314,William Turner,Germany,Haircare,6762,2024-10-25
+CR-0315,Jeffrey Morrison,UAE,Personal Care,4830,2024-04-30
+CR-0316,Marissa Charles,France,Haircare,6656,2024-02-18
+CR-0317,Jennifer Mason,Germany,Personal Care,3954,2024-11-08
+CR-0318,Connor Moore,UAE,Personal Care,2451,2024-09-05
+CR-0319,Jesse Turner,Germany,Skincare,3068,2024-07-26
+CR-0320,Joshua Lowe,UK,Skincare,4376,2024-05-12
+CR-0321,Theresa Mcconnell DDS,UK,Personal Care,6924,2024-07-22
+CR-0322,Dennis Bonilla,UAE,Haircare,6952,2024-05-10
+CR-0323,Rhonda Johnson,USA,Haircare,3619,2024-05-20
+CR-0324,Rachel Johnson,USA,Skincare,5071,2024-07-08
+CR-0325,Timothy Flores,UK,Skincare,2884,2024-09-17
+CR-0326,Lisa Russell,UK,Makeup,3599,2024-12-21
+CR-0327,Scott Bean,USA,Skincare,5393,2024-12-04
+CR-0328,Jennifer Love,France,Haircare,4432,2024-12-23
+CR-0329,Lori Harrison,USA,Skincare,4042,2024-11-29
+CR-0330,Becky Harvey,Germany,Makeup,3704,2024-05-26
+CR-0331,Antonio Bush,France,Personal Care,2434,2024-07-28
+CR-0332,Calvin Tran,Germany,Personal Care,4102,2024-11-06
+CR-0333,Jennifer Franklin,UK,Haircare,9295,2024-12-16
+CR-0334,Daniel Mitchell,France,Makeup,8801,2024-03-08
+CR-0335,Kelli Hoffman,Germany,Personal Care,8554,2024-02-25
+CR-0336,Timothy Robinson,Germany,Personal Care,6495,2024-10-01
+CR-0337,Cody Bond,France,Skincare,6379,2024-03-15
+CR-0338,Jennifer Harper,UAE,Personal Care,3673,2024-09-10
+CR-0339,Peter Swanson,USA,Haircare,8405,2024-06-25
+CR-0340,Steve Marshall,Germany,Personal Care,2318,2024-02-29
+CR-0341,Brandy Preston,USA,Haircare,8882,2024-08-30
+CR-0342,Gregory Baker,USA,Haircare,8445,2024-04-18
+CR-0343,Vanessa Anderson,UK,Skincare,6161,2024-10-01
+CR-0344,Jason Gutierrez,USA,Makeup,5700,2024-05-29
+CR-0345,Kenneth Russo,Germany,Haircare,2120,2024-09-25
+CR-0346,John Miller,UK,Personal Care,6966,2024-07-12
+CR-0347,James Richard,France,Personal Care,2415,2025-01-05
+CR-0348,Benjamin Warren,Germany,Haircare,6285,2024-04-22
+CR-0349,Curtis Smith,UK,Personal Care,8765,2024-05-26
+CR-0350,Jeffrey Baker,UK,Skincare,8604,2024-12-15
+CR-0351,Karen White,USA,Personal Care,1816,2024-04-29
+CR-0352,Gregory Pham,France,Skincare,2132,2024-06-16
+CR-0353,George Hines,Germany,Haircare,7241,2024-05-25
+CR-0354,Kevin Young,Germany,Haircare,5903,2024-08-09
+CR-0355,Anthony Ortega,USA,Haircare,2457,2024-05-31
+CR-0356,Karen Williams,France,Skincare,2679,2024-02-05
+CR-0357,Dr. Diana Tanner DDS,Germany,Personal Care,7499,2024-02-25
+CR-0358,Misty Lewis,France,Skincare,8781,2024-06-09
+CR-0359,William Mercado,Germany,Personal Care,1872,2024-12-09
+CR-0360,Christina Gonzalez,USA,Personal Care,8568,2024-08-22
+CR-0361,Scott Wallace,UAE,Skincare,4284,2024-07-07
+CR-0362,Brandon Crawford,Germany,Makeup,6467,2024-04-19
+CR-0363,Jeremy Washington,UK,Haircare,8992,2024-07-12
+CR-0364,Scott Hart,UK,Personal Care,9414,2024-02-26
+CR-0365,Melissa Leon,UAE,Personal Care,3671,2024-02-10
+CR-0366,Sarah Burch,Germany,Skincare,2213,2024-08-14
+CR-0367,Jared Vasquez,UK,Makeup,8581,2024-08-05
+CR-0368,James Sanchez,UK,Haircare,2895,2024-10-17
+CR-0369,Michael Patel,Germany,Makeup,6826,2024-09-29
+CR-0370,Tyler Rose,France,Haircare,2581,2024-02-21
+CR-0371,Nicholas Johnson,Germany,Personal Care,9466,2024-06-05
+CR-0372,Meredith Turner,France,Personal Care,4027,2024-03-14
+CR-0373,Mikayla Long,UAE,Skincare,1841,2024-07-27
+CR-0374,Stacey Thomas,USA,Skincare,5259,2024-03-02
+CR-0375,Kristen Underwood,UAE,Makeup,8372,2024-09-03
+CR-0376,Dr. Justin Snyder PhD,USA,Makeup,8399,2024-06-09
+CR-0377,Hunter Ball,UK,Haircare,3800,2024-08-24
+CR-0378,Mark Coffey,UK,Skincare,7162,2024-11-01
+CR-0379,Julie Hall,UK,Personal Care,7308,2024-07-19
+CR-0380,David Cunningham,France,Skincare,5834,2024-04-11
+CR-0381,Tina Callahan,USA,Makeup,7547,2024-02-15
+CR-0382,Kayla Anthony,UK,Skincare,7897,2025-01-13
+CR-0383,Benjamin Lee,Germany,Personal Care,6743,2024-04-30
+CR-0384,Tim Johnson,USA,Skincare,2057,2024-09-08
+CR-0385,Victoria Fisher,USA,Makeup,6682,2024-10-24
+CR-0386,Joshua Maynard,France,Personal Care,2279,2024-03-10
+CR-0387,Kelly Lewis,UAE,Haircare,6601,2024-06-09
+CR-0388,Nathan Richmond,France,Haircare,2748,2024-12-21
+CR-0389,Jenna Durham,UK,Personal Care,7533,2024-09-26
+CR-0390,Matthew Torres,Germany,Personal Care,5855,2024-11-07
+CR-0391,Ryan Adams,Germany,Personal Care,5328,2024-02-05
+CR-0392,Alyssa Salinas,UK,Makeup,3663,2024-02-15
+CR-0393,Amanda Summers,Germany,Personal Care,6661,2024-08-09
+CR-0394,David Perry,France,Makeup,2535,2025-02-02
+CR-0395,Charles Vega,France,Personal Care,3517,2024-07-19
+CR-0396,Kelly Davis,UK,Makeup,6931,2024-04-25
+CR-0397,Matthew Wilson,Germany,Makeup,6282,2024-05-25
+CR-0398,Sarah Moore,USA,Skincare,7621,2024-06-28
+CR-0399,Aaron Aguilar,UAE,Haircare,3312,2024-09-14
+CR-0400,Melanie Pace,USA,Personal Care,2588,2024-12-15
+CR-0401,Jessica Hoover,France,Haircare,6272,2024-03-19
+CR-0402,Kevin Hoover,France,Haircare,7371,2025-01-29
+CR-0403,Brian Smith,France,Skincare,6581,2024-07-25
+CR-0404,Nicole Huynh,France,Haircare,3293,2024-07-26
+CR-0405,Dave Meyers,UAE,Haircare,2731,2024-07-10
+CR-0406,Austin Smith,UK,Personal Care,8137,2024-04-14
+CR-0407,Stephanie Haley DVM,France,Makeup,7128,2024-11-20
+CR-0408,Michael Patterson,Germany,Personal Care,1498,2024-12-25
+CR-0409,James Horn,UAE,Personal Care,7140,2024-05-09
+CR-0410,Eduardo Lewis,France,Haircare,6260,2024-10-12
+CR-0411,Ashley Jones,Germany,Haircare,4153,2024-11-11
+CR-0412,Angela Nelson,France,Personal Care,4709,2024-10-19
+CR-0413,Derek Walsh,UK,Personal Care,6798,2024-07-21
+CR-0414,Jerry Velez,UAE,Haircare,9167,2024-06-01
+CR-0415,Kenneth Frazier,UK,Makeup,4345,2024-11-12
+CR-0416,Crystal Davis,UAE,Makeup,4911,2024-03-01
+CR-0417,Scott Williamson,France,Personal Care,3453,2024-06-25
+CR-0418,Sheri Morrison,France,Makeup,3738,2024-09-24
+CR-0419,Mr. Joseph Benson,UAE,Personal Care,2464,2024-09-23
+CR-0420,Abigail Mcmahon,Germany,Skincare,6046,2024-04-02
+CR-0421,Kimberly Higgins,Germany,Haircare,2857,2024-05-01
+CR-0422,Maria Chambers,France,Personal Care,1818,2025-01-27
+CR-0423,Nichole Rogers,France,Personal Care,6717,2024-12-22
+CR-0424,Tiffany Randall,UK,Personal Care,3347,2024-09-28
+CR-0425,Karen Holt,France,Makeup,7372,2024-10-21
+CR-0426,Charlotte Cole,UAE,Personal Care,3727,2024-08-28
+CR-0427,Elizabeth Vargas,Germany,Skincare,3858,2024-07-04
+CR-0428,Christopher Williams,Germany,Makeup,4162,2024-08-28
+CR-0429,Nina Roach,UK,Haircare,3912,2024-08-05
+CR-0430,Rachael Booth,Germany,Skincare,8370,2024-02-17
+CR-0431,Susan Holt,Germany,Personal Care,1915,2024-05-21
+CR-0432,Noah Anderson,USA,Skincare,7931,2025-01-04
+CR-0433,Beth Ruiz,UAE,Personal Care,7168,2024-03-07
+CR-0434,Albert Scott,USA,Skincare,5091,2024-02-11
+CR-0435,Sharon Good,Germany,Makeup,8477,2024-07-12
+CR-0436,Danny Sims,UK,Personal Care,5868,2024-09-13
+CR-0437,Jeffrey Conley,UK,Makeup,8555,2024-03-25
+CR-0438,Catherine Higgins,Germany,Skincare,5033,2024-09-26
+CR-0439,Frances Randolph,France,Personal Care,5118,2024-11-13
+CR-0440,Patrick Boyd,USA,Haircare,6270,2024-03-05
+CR-0441,Kristine Fox,Germany,Haircare,8884,2024-11-28
+CR-0442,Nicole Jackson,UK,Personal Care,4378,2024-08-05
+CR-0443,Edward Ortiz,UK,Skincare,7226,2024-12-01
+CR-0444,Joy Harmon MD,USA,Haircare,8418,2024-04-25
+CR-0445,Dr. Michelle Wolf,UAE,Personal Care,8764,2025-01-20
+CR-0446,Darrell Proctor,Germany,Haircare,5816,2024-03-22
+CR-0447,Mark Oneill,Germany,Personal Care,7456,2024-10-27
+CR-0448,David Ball,UAE,Skincare,9439,2024-11-16
+CR-0449,Katie Vance,USA,Skincare,8059,2024-10-26
+CR-0450,Bruce Montgomery,USA,Makeup,3855,2025-01-23
+CR-0451,Andrew Smith,UK,Haircare,4471,2024-11-16
+CR-0452,Gary Kirby,UAE,Makeup,3467,2024-08-07
+CR-0453,Thomas Davis,USA,Skincare,5296,2024-08-01
+CR-0454,Andre Blake,France,Personal Care,2054,2024-02-10
+CR-0455,Jessica Singleton,Germany,Skincare,9073,2025-01-08
+CR-0456,Isaiah Warner,UK,Skincare,7281,2024-06-05
+CR-0457,Frank Dyer,UAE,Personal Care,2880,2024-07-03
+CR-0458,Betty Dodson,UK,Makeup,3242,2024-07-04
+CR-0459,Gordon Gould,USA,Haircare,5870,2025-01-12
+CR-0460,Elizabeth Medina,USA,Skincare,2574,2024-12-29
+CR-0461,Mr. Jonathan Roberts,France,Skincare,3826,2024-11-15
+CR-0462,Michael Perry,Germany,Haircare,5669,2024-02-19
+CR-0463,Laura Smith,UAE,Skincare,8561,2025-01-13
+CR-0464,Brian Trevino,UK,Haircare,3614,2024-06-01
+CR-0465,Tracy Jones,Germany,Haircare,8367,2024-03-17
+CR-0466,Tamara Young,USA,Haircare,2702,2024-12-29
+CR-0467,Sarah Martin,Germany,Personal Care,4837,2024-11-01
+CR-0468,Patrick Hernandez,UK,Makeup,8591,2025-01-06
+CR-0469,Kyle Graham,Germany,Makeup,6927,2024-02-06
+CR-0470,Jordan Jones,USA,Personal Care,1636,2024-12-06
+CR-0471,Glenn Lopez,Germany,Makeup,7997,2025-01-01
+CR-0472,Joshua Norris,UAE,Makeup,2072,2024-10-29
+CR-0473,Barbara Thompson,Germany,Makeup,7695,2025-01-06
+CR-0474,Linda Owens,UAE,Skincare,9424,2024-05-19
+CR-0475,Michael Moran,Germany,Personal Care,7326,2025-01-10
+CR-0476,David Miller,USA,Makeup,5062,2024-03-31
+CR-0477,Scott Frederick,France,Personal Care,7526,2024-11-14
+CR-0478,Brent Baird,France,Makeup,2537,2025-02-01
+CR-0479,Zoe King,UAE,Makeup,7342,2024-04-16
+CR-0480,Matthew Mann,UAE,Personal Care,4878,2024-08-01
+CR-0481,Trevor Jones,France,Haircare,1661,2024-11-01
+CR-0482,Joyce Wright,USA,Personal Care,6421,2024-11-26
+CR-0483,Nathan Peterson,USA,Haircare,2823,2024-12-19
+CR-0484,Susan Hill,Germany,Skincare,6693,2024-12-02
+CR-0485,Manuel Cole,UAE,Personal Care,3592,2024-12-10
+CR-0486,Douglas Avila DDS,USA,Haircare,3454,2024-09-17
+CR-0487,Jonathan Graham,UK,Makeup,1827,2024-03-31
+CR-0488,Mary Espinoza,Germany,Skincare,5900,2024-06-23
+CR-0489,Dr. Christopher Gomez MD,Germany,Personal Care,8940,2025-01-22
+CR-0490,Brenda Miller,France,Haircare,3473,2024-09-07
+CR-0491,Connie Alexander,UAE,Haircare,8885,2024-06-03
+CR-0492,Mathew Davidson,USA,Personal Care,8549,2024-09-20
+CR-0493,Richard Martinez,USA,Haircare,1286,2024-09-13
+CR-0494,Brianna Cox,Germany,Personal Care,2498,2024-07-17
+CR-0495,Gary Robbins,UAE,Haircare,1511,2024-06-19
+CR-0496,Keith Shepard,UAE,Makeup,5393,2024-05-25
+CR-0497,Glenn Perkins,UAE,Personal Care,4733,2024-07-16
+CR-0498,Richard Jones,France,Personal Care,3649,2024-06-08
+CR-0499,Jesus Salazar,USA,Skincare,8134,2024-09-11
+CR-0500,Heather Fletcher,UAE,Makeup,3021,2024-08-06
