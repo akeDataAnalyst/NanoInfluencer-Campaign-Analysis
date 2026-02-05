@@ -1,6 +1,13 @@
-pandas
-numpy
-streamlit
-plotly
-matplotlib
-seaborn
+# Core Data Stack
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Visualization (Fixed versions for compatibility)
+altair>=5.0.0
+streamlit>=1.30.0
+plotly>=5.18.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Data Generation
+Faker>=20.0.0
